@@ -6,3 +6,6 @@ const inc = (obj) => {
 const obj = {n:5}
 inc(obj)
 console.dir(obj)
+fdgl;dfkdflglfkgkdg;df;WebGLRenderbuffer;lgkdgdlf;WebGLTransformFeedback;dfgkgkdf;gk;fldg;length;fdk
+f;ld;gfg
+;gld
