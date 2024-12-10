@@ -5,6 +5,7 @@ for (const elements of types){
     for(keys in counter){
         if (typeof elements === keys){
             counter[keys] += 1;
+            break;
         };
     };
 };
