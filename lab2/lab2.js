@@ -1,7 +1,9 @@
+///1,2,3 task
 let name = "Maxym";
 const year = 2007;
 const greeting = (name) => console.log(`Hello, ${name}`);
 
+///4 task
 const range = () => {
     numbers = [];
     for (let step = 15; step<=30; step++){
@@ -10,6 +12,7 @@ const range = () => {
     return numbers;
 };
 
+///5 task
 const rangeOdd = () => {
     numbers = []
     for(let step = 15; step<=30; step++){
@@ -20,6 +23,7 @@ const rangeOdd = () => {
         return numbers;
 };
 
+///6 task
 const average = (a, b) => (a+b)/2;
 
 const square = (a) => a*a;
@@ -34,6 +38,7 @@ const calculate = () => {
     return(numbers);
 };
 
+///7 task
 const fn = () => {
     const obj1 = { name: 'Maxym' };
     let obj2 = { name: 'Maxym' };
@@ -44,8 +49,11 @@ const fn = () => {
     obj2 = { name: 'Maxym Maxym' };
 };
 
+///8 task
 const createUser = (name, city) => ({name, city})
 
+
+///9 task
 phone_book = [
     { name: 'Marcus Aurelius', phone: '+380445554433' },
     { name: 'Windy31', phone: '+38045465454433' }, 
